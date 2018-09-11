@@ -1,0 +1,60 @@
+# Tests to run with upstream ksh builds
+# alias-p.tst
+andor-p.tst
+# arith-p.tst
+async-p.tst
+# bg-p.tst
+break-p.tst
+# builtins-p.tst
+# case-p.tst
+# cd-p.tst
+# cmdsub-p.tst
+# command-p.tst
+comment-p.tst
+continue-p.tst
+dot-p.tst
+errexit-p.tst
+# error-p.tst
+eval-p.tst
+# exec-p.tst
+# exit-p.tst
+export-p.tst
+# fg-p.tst
+fnmatch-p.tst
+for-p.tst
+# fsplit-p.tst
+function-p.tst
+getopts-p.tst
+grouping-p.tst
+if-p.tst
+# input-p.tst
+# job-p.tst
+# kill1-p.tst
+# kill2-p.tst
+# kill3-p.tst
+# kill4-p.tst
+lineno-p.tst
+nop-p.tst
+# option-p.tst
+# param-p.tst
+path-p.tst
+# pipeline-p.tst
+ppid-p.tst
+# quote-p.tst
+readonly-p.tst
+# read-p.tst
+# redir-p.tst
+# return-p.tst
+set-p.tst
+shift-p.tst
+# signal-p.tst
+# simple-p.tst
+# test-p.tst
+# testtty-p.tst
+# tilde-p.tst
+# trap-p.tst
+# umask-p.tst
+# unset-p.tst
+until-p.tst
+# wait-p.tst
+while-p.tst
